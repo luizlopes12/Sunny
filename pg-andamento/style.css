@@ -1,48 +1,48 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 /*background e fonte*/
-body{
-    background: rgb(0,211,255);
-    color: rgb(255, 255, 255);
-    font: normal 20px Verdana;
+body {
+  background: rgb(0, 211, 255);
+  color: rgb(255, 255, 255);
+  font: normal 20px Verdana;
 }
-p{
-    padding-top: .5em;
-    font: bold 2em Verdana;
-    margin: auto;
-    width: 100px;
+p {
+  padding-top: 0.5em;
+  font: bold 2em Verdana;
+  margin: auto;
+  width: 100px;
 }
-.ops{
-    text-align: center;
-    padding-top: .5em;
-    font: bold 2em Verdana;
-    margin: auto;
-    width: auto;
+.ops {
+  text-align: center;
+  padding-top: 0.5em;
+  font: bold 2em Verdana;
+  margin: auto;
+  width: auto;
 }
-.and{
-    text-align: center;
-    padding-top: .1em;
-    width: 320px;
-    font: normal 20px Verdana;
+.and {
+  text-align: center;
+  padding-top: 0.1em;
+  width: 320px;
+  font: normal 20px Verdana;
 }
-.voltar{
-    text-align: center;
-    margin: auto;
-    width: 200px;
-    font: bold 1em Arial;
-    background-color: rgb(255, 217, 0);
-    border-radius: 15px;
-    padding: 15px 5% 15px 5%;
+.voltar {
+  text-align: center;
+  margin: auto;
+  width: 200px;
+  font: bold 1em Arial;
+  background-color: rgb(255, 217, 0);
+  border-radius: 15px;
+  padding: 15px 5% 15px 5%;
 }
-.voltar:hover{
-    background-color: rgba(255, 217, 0, 0.864);
+.voltar:hover {
+  background-color: rgba(255, 217, 0, 0.864);
 }
-.voltar-box{
-    padding-top: 100px;
-    padding-bottom: 50px;
+.voltar-box {
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
-a:link{
-    text-decoration: none;
+a:link {
+  text-decoration: none;
 }

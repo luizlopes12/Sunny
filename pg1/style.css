@@ -1,107 +1,105 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 /*background e fonte*/
-body{
-
-    background: rgb(0,211,255);
-    color: rgb(255, 255, 255);
-    font: normal 20px Verdana;
+body {
+  background: rgb(0, 211, 255);
+  color: rgb(255, 255, 255);
+  font: normal 20px Verdana;
 }
 /*Sunny texto*/
-header{
-    
-    text-align: center;
-    width: 100%;
-    margin: auto;
-
+header {
+  text-align: center;
+  width: 100%;
+  margin: auto;
 }
-    /*logo */
-.slogo{
-    
-    text-align: center;
-    width: 100%;
-    margin: auto;
-    display: inline;
-    width: 10px;
-    background-image: url(../imgs/logo.png);
-    background-repeat: no-repeat;
+/*logo */
+.slogo {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  display: inline;
+  width: 10px;
+  background-image: url(../imgs/logo.png);
+  background-repeat: no-repeat;
 }
 
-.sunny{
-    font: bold 2em Verdana;
-    padding-bottom: 5%;
+.sunny {
+  font: bold 2em Verdana;
+  padding-bottom: 5%;
 }
-.login, .senha, .entrar{
-    text-align: center;
-    width: 100%;
-    margin: auto;
+
+.login,
+.senha,
+.entrar {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+#email,
+#senha {
+  height: 20px;
+  width: 250px;
+  padding: 0;
+  font: normal 15px Verdana;
 }
 /*inputs*/
-.senha input, .login input{
-    display: inline-block;
-    
-    
+.senha input,
+.login input {
+  display: inline-block;
 }
-.login input, .senha input{
-    color: rgb(255, 255, 255);
-    padding-right: 30px;
-    background-color: rgba(255, 255, 255, 0.938);
-    border: solid 5px rgba(255, 255, 255, 0.596);
-    border-radius: 20px;
-    text-align: left;
-    
-    
+.login {
+  padding-bottom: 10px;
 }
-.login input:focus, .senha input:focus{
-    background-color: rgba(128, 128, 128, 0.281);
+.login input,
+.senha input {
+  color: rgb(141, 141, 141);
+  padding-right: 30px;
+  background-color: rgba(255, 255, 255, 0.938);
+  border: solid 5px rgba(255, 255, 255, 0.597);
+  border-radius: 10px;
+  text-align: left;
 }
-.senha input{
-    padding-right: 30px;
+.login input:focus,
+.senha input:focus {
+  background-color: rgba(255, 255, 255, 0.85);
 }
+
 /**/
 /*padding do input senha-botão*/
-.senha + .entrar{
-    padding: 150px 0 5px 0;
+.senha + .entrar {
+  padding: 140px 0 5px 0;
 }
-input{
-    color: rgba(192, 192, 192, 0.377);
-    
+input {
+  color: rgba(192, 192, 192, 0.377);
 }
 /*botão entrar*/
-.entrar p{
-    font: bold 1em Arial;
-    background-color: rgb(255, 217, 0);
-    border-radius: 15px;
-    display: inline-block;
-    padding: 15px 5% 15px 5%;
+.entrar p {
+  width: 100px;
+  font: bold 1em Arial;
+  background-color: rgb(255, 217, 0);
+  border-radius: 15px;
+  display: inline-block;
+  padding: 15px 5% 15px 5%;
 }
-.entrar p:hover{
-    background-color: rgba(255, 217, 0, 0.864);
+.entrar p:hover {
+  background-color: rgba(255, 217, 0, 0.864);
 }
-a:link{
-    text-decoration: none;
-    
+a:link {
+  text-decoration: none;
 }
 
-
-
-
-
-
-
-
-footer{
-    width: 100px;
-    padding-top: 5.25%;
-    font: italic 10px Verdana;
-    margin: auto;
-    text-align: center;
+footer {
+  width: 100px;
+  padding-top: 5.1%;
+  font: italic 10px Verdana;
+  margin: auto;
+  text-align: center;
 }
-.esqueceu-cadastrar{
-    text-align: center;
-    width: 220px;
-    margin: auto;
-    font: normal 12px Verdana;
+.esqueceu-cadastrar {
+  text-align: center;
+  width: 220px;
+  margin: auto;
+  font: normal 12px Verdana;
 }
