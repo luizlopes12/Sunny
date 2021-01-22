@@ -16,7 +16,6 @@ p {
 }
 .ops {
   text-align: center;
-  padding-top: 0.5em;
   font: bold 2em Verdana;
   margin: auto;
   width: auto;
@@ -39,9 +38,15 @@ p {
 .voltar:hover {
   background-color: rgba(255, 217, 0, 0.864);
 }
-.voltar-box {
-  padding-top: 100px;
-  padding-bottom: 50px;
+@media (max-width: 800px) {
+  .voltar-box {
+    padding: 21.7% 0 5px 0;
+  }
+}
+@media (min-width: 1280px) {
+  .voltar-box {
+    padding: 10.87% 0 5px 0;
+  }
 }
 a:link {
   text-decoration: none;

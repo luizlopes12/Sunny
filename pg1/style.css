@@ -68,13 +68,22 @@ header {
 
 /**/
 /*padding do input senha-botão*/
-.senha + .entrar {
-  padding: 140px 0 5px 0;
+@media (max-width: 800px) {
+  .senha + .entrar {
+    padding: 34.4% 0 5px 0;
+  }
 }
+@media (min-width: 1280px) {
+  .senha + .entrar {
+    padding: 10% 0 5px 0;
+  }
+}
+
 input {
   color: rgba(192, 192, 192, 0.377);
 }
 /*botão entrar*/
+
 .entrar p {
   width: 100px;
   font: bold 1em Arial;
@@ -83,6 +92,7 @@ input {
   display: inline-block;
   padding: 15px 5% 15px 5%;
 }
+
 .entrar p:hover {
   background-color: rgba(255, 217, 0, 0.864);
 }
