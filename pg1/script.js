@@ -7,8 +7,12 @@ function inputvazio(){
         blockLink.removeAttribute('href')
     }
     //resolver
-    else if(inputvazio1.value.length > 0 || inputvazio2.value.length > 0) {
-        blockLink.addAttribute('href')
+   /* 
+   else if(inputvazio1.value.length > 0 || inputvazio2.value.length > 0) {
+        let link = blockLink.createAttribute('href')
+        link.value = 'pg-andamento/andamento.html'
+        
     }
+    */
 }
 
