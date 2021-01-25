@@ -1,7 +1,7 @@
 # Sunny
  Página de login Sunny (projeto pessoal indefinido)
  utilizando a metodologia mobile first.
-  ####Linguagens:
+
  - [x] HTML5
  - [x] CSS3
  - [ ] Javascript
