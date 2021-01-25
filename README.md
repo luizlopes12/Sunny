@@ -4,6 +4,7 @@
  Linguagens:
  - [x] HTML5
  - [x] CSS3
+ - [ ] Javascript
  ## Imagens do site
  ![Gif de demonstração](https://github.com/luizlopes12/Sunny/blob/main/aaaaa.gif)
  ![Página de login web](https://github.com/luizlopes12/Sunny/blob/main/Screenshot_30.png)
