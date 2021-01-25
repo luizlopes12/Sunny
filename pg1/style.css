@@ -4,7 +4,7 @@
 }
 /*background e fonte*/
 body {
-  background: rgb(67, 188, 236);
+  background: rgb(0, 200, 240);
   color: rgb(255, 255, 255);
   font: normal 20px Verdana;
 }
@@ -117,4 +117,4 @@ footer {
   margin: auto;
   font: normal 12px Verdana;
 }
-/*Animação*/
+
