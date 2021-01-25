@@ -8,24 +8,28 @@ body {
   color: rgb(255, 255, 255);
   font: normal 20px Verdana;
 }
+/*Testo em baixo da imagem*/
 p {
   padding-top: 0.5em;
   font: bold 2em Verdana;
   margin: auto;
   width: 100px;
 }
+/*Imagem ops*/
 .ops {
   text-align: center;
   font: bold 2em Verdana;
   margin: auto;
   width: auto;
 }
+/*Texto andamento*/
 .and {
   text-align: center;
   padding-top: 0.1em;
   width: 320px;
   font: normal 20px Verdana;
 }
+/*Voltar button configs*/
 .voltar {
   text-align: center;
   margin: auto;
@@ -38,16 +42,19 @@ p {
 .voltar:hover {
   background-color: rgba(255, 217, 0, 0.864);
 }
+/*Config para celulares (Responsividade)*/
 @media (max-width: 800px) {
   .voltar-box {
     padding: 21.7% 0 5px 0;
   }
 }
+/*Config para PCs (Responsividade)*/
 @media (min-width: 1280px) {
   .voltar-box {
     padding: 10.87% 0 5px 0;
   }
 }
+/*Link voltar*/
 a:link {
   text-decoration: none;
 }
