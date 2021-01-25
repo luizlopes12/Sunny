@@ -24,12 +24,12 @@ header {
   background-image: url(../imgs/logo.png);
   background-repeat: no-repeat;
 }
-  /*fonte do Sunny*/
+/*fonte do Sunny*/
 .sunny {
   font: bold 2em Verdana;
   padding-bottom: 5%;
 }
- /*Text align e alinhamento no centro dos botôes*/
+/*Text align e alinhamento no centro dos botôes*/
 .login,
 .senha,
 .entrar {
@@ -111,9 +111,10 @@ footer {
 }
 /* botões de cadastrar e esqueceu a senha*/
 .esqueceu-cadastrar {
-  padding-top: .02%;
+  padding-top: 0.02%;
   text-align: center;
   width: 220px;
   margin: auto;
   font: normal 12px Verdana;
 }
+/*Animação*/
