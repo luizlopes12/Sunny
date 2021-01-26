@@ -70,12 +70,12 @@ header {
 
 /**/
 /*padding do input senha-botão*/
-@media (max-width: 800px) {
+
   .senha + .entrar {
     padding: 34.4% 0 5px 0;
   }
-}
-@media (min-width: 1280px) {
+
+@media (min-width: 800px) {
   .senha + .entrar {
     padding: 10% 0 5px 0;
   }
