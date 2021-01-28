@@ -6,7 +6,7 @@
  - [x] CSS3
  - [ ] Javascript
  ## Imagens do site
- ![Gif de demonstração](https://github.com/luizlopes12/Sunny/blob/main/Getting-Started-Project.gif)
+ ![Gif de demonstração](https://github.com/luizlopes12/Sunny/blob/main/a.gif)
  ![Página de login web](https://github.com/luizlopes12/Sunny/blob/main/Screenshot_30.png)
  ![Página de login mobile](https://github.com/luizlopes12/Sunny/blob/main/Screenshot_29.png)
 
