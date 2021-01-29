@@ -44,8 +44,8 @@ p {
 }
 /*Config para celulares (Responsividade)*/
 
-  .voltar-box {
-    padding: 21.7% 0 5px 0;
+.voltar-box {
+  padding: 21.7% 0 5px 0;
 }
 /*Config para PCs (Responsividade)*/
 @media (min-width: 800px) {
