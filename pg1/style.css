@@ -71,9 +71,9 @@ header {
 /**/
 /*padding do input senha-botão*/
 
-  .senha + .entrar {
-    padding: 34.4% 0 5px 0;
-  }
+.senha + .entrar {
+  padding: 34.4% 0 5px 0;
+}
 
 @media (min-width: 800px) {
   .senha + .entrar {
@@ -117,4 +117,3 @@ footer {
   margin: auto;
   font: normal 12px Verdana;
 }
-
