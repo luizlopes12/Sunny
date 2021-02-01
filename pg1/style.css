@@ -70,7 +70,7 @@ header {
 .senha + .entrar {
   padding: 34.4% 0 5px 0;
 }
-
+/*Config para celulares (Responsividade)*/
 @media (min-width: 800px) {
   .senha + .entrar {
     padding: 10% 0 5px 0;
