@@ -47,7 +47,7 @@ p {
 .voltar-box {
   padding: 21.7% 0 5px 0;
 }
-/*Config para PCs (Responsividade)*/
+/*Config para PC (Responsividade)*/
 @media (min-width: 800px) {
   .voltar-box {
     padding: 10.87% 0 5px 0;
