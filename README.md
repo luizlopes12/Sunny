@@ -7,7 +7,6 @@
  - [ ] Javascript
  ## Imagens do site
  ![Gif de demonstração](https://github.com/luizlopes12/Sunny/blob/main/aa.gif)
- ![Página de login web](https://github.com/luizlopes12/Sunny/blob/main/Screenshot_30.png)
- ![Página de login mobile](https://github.com/luizlopes12/Sunny/blob/main/Screenshot_29.png)
+
 
  
