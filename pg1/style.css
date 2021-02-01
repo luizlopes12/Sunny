@@ -46,16 +46,12 @@ header {
   font: normal 15px Verdana;
 }
 /*inputs*/
-.senha input,
-.login input {
-  display: inline-block;
-}
-
 .login {
   padding-bottom: 10px;
 }
 .login input,
 .senha input {
+  display: inline-block;
   color: rgb(141, 141, 141);
   padding-right: 30px;
   background-color: rgba(255, 255, 255, 0.938);
@@ -65,7 +61,7 @@ header {
 }
 .login input:focus,
 .senha input:focus {
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 /**/
