@@ -70,12 +70,6 @@ header {
 .senha + .entrar {
   padding: 34.4% 0 5px 0;
 }
-/*Config para celulares (Responsividade)*/
-@media (min-width: 800px) {
-  .senha + .entrar {
-    padding: 10% 0 5px 0;
-  }
-}
 
 input {
   color: rgba(192, 192, 192, 0.377);
@@ -112,4 +106,10 @@ footer {
   width: 220px;
   margin: auto;
   font: normal 12px Verdana;
+}
+/*Config para celulares (Responsividade)*/
+@media (min-width: 800px) {
+  .senha + .entrar {
+    padding: 10% 0 5px 0;
+  }
 }
